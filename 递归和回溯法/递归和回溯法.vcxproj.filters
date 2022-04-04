@@ -57,5 +57,17 @@
     <ClCompile Include="力扣130-被围绕的区域.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="力扣2022-4-3周赛.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="力扣51-N皇后.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="力扣52-N皇后II.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="力扣37-解数独.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
